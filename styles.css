@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+const str = prompt("Enter String.");
+const size = prompt("Enter Chunk Size.");
+alert(stringChop(str, size));
